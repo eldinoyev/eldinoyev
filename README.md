@@ -1,3 +1,3 @@
 # Hi, I'm Leo
 
-I manage engineers and write software at [Chain.io](https://chain.io).
+I'm a Lead Engineer at [roo.vet](https://github.com/RooVetGit)
